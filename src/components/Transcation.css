@@ -1,0 +1,2626 @@
+
+.Transcation_Transcation {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Transcation_Transcation .Ellipse71 {
+	position: absolute;
+	left: 1132.12px;
+	top: 214.97px;
+	width: 230.73999999999998px;
+	height: 230.73999999999998px;
+	border-radius: 50%;
+	border: 2px solid rgba(204.00000303983688,204.00000303983688,204.00000303983688,1);
+	box-sizing: border-box;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Ellipse71 {
+		width: 40%;
+		padding-bottom: 40%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Ellipse71 {
+		width: 30%;
+		padding-bottom: 30%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Ellipse71 {
+		width: 20%;
+		padding-bottom: 20%;
+	}
+}
+.Transcation_Transcation .Rectangle3012 {
+	position: absolute;
+	left: 0px;
+	top: 0.83px;
+	width: 1434.24px;
+	height: 73.86999999999999px;
+	background: rgba(0,0,0,1.00);
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Rectangle3012 {
+		height: 12%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Rectangle3012 {
+		height: 12%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Rectangle3012 {
+		height: 12%;
+	}
+}
+.Transcation_Transcation .Bitcoin {
+	position: absolute;
+	left: 730.4px;
+	top: 28.22px;
+	width: 63.91px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 500;
+	line-height: 24.999599113464356px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Bitcoin {
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Bitcoin {
+		font-size: 2vw;
+		line-height: 3vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Bitcoin {
+		font-size: 1.5vw;
+		line-height: 2.5vw;
+	}
+}
+.Transcation_Transcation ._25713 {
+	position: absolute;
+	left: 840.79px;
+	top: 28.22px;
+	width: 76.36px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 500;
+	line-height: 24.999599113464356px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation ._25713 {
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation ._25713 {
+		font-size: 2vw;
+		line-height: 3vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation ._25713 {
+		font-size: 1.5vw;
+		line-height: 2.5vw;
+	}
+}
+.Transcation_Transcation ._1839 {
+	position: absolute;
+	left: 1000.15px;
+	top: 28.22px;
+	width: 71.38px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 500;
+	line-height: 24.999599113464356px;
+}
+
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation ._1839 {
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation ._1839 {
+		font-size: 2vw;
+		line-height: 3vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation ._1839 {
+		font-size: 1.5vw;
+		line-height: 2.5vw;
+	}
+}
+.Transcation_Transcation .Rectangle45 {
+	position: absolute;
+	left: 1143.74px;
+	top: 14.11px;
+	width: 54.779999999999994px;
+	height: 53.12px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 16.599999999999998px;
+}
+.Transcation_Transcation .Rectangle46 {
+	position: absolute;
+	left: 1342.9399999999998px;
+	top: 14.11px;
+	width: 54.779999999999994px;
+	height: 53.12px;
+	background: linear-gradient(0deg, rgba(255,255,255,1.00), rgba(255,255,255,1.00));
+	border-radius: 16.599999999999998px;
+	background-size: cover;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Rectangle45,
+	.Transcation_Transcation .Rectangle46 {
+		width: 8%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Rectangle45,
+	.Transcation_Transcation .Rectangle46 {
+		width: 6%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Rectangle45,
+	.Transcation_Transcation .Rectangle46 {
+		width: 4%;
+	}
+}
+.Transcation_Transcation .JohnDack {
+	position: absolute;
+	left: 1228.3999999999999px;
+	top: 28.22px;
+	width: 95.44999999999999px;
+	height: 24.9px;
+	display: flex;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 600;
+	line-height: 24.999599113464356px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .JohnDack {
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .JohnDack {
+		font-size: 2vw;
+		line-height: 3vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .JohnDack {
+		font-size: 1.5vw;
+		line-height: 2.5vw;
+	}
+}
+.Transcation_Transcation .IconsaxLinearnotification {
+	position: absolute;
+	left: 1154.53px;
+	top: 24.07px;
+	width: 33.199999999999996px;
+	height: 33.199999999999996px;
+}
+.Transcation_Transcation .IconsaxLinearnotification .Vector {
+	position: absolute;
+	left: 5.497432861328125px;
+	top: 4.0254797363281245px;
+	width: 66.84371948242188%;
+	height: 70.291748046875%;
+}
+.Transcation_Transcation .IconsaxLinearnotification .Vector_1 {
+	position: absolute;
+	left: 14.068510131835938px;
+	top: 2.6836700439453125px;
+	width: 15.416717529296875%;
+	height: 5.24993896484375%;
+}
+.Transcation_Transcation .IconsaxLinearnotification .Vector_2 {
+	position: absolute;
+	left: 12.477659912109374px;
+	top: 26.366329956054685px;
+	width: 25%;
+	height: 12.5%;
+}
+
+
+.Transcation_Transcation .Bitcoin_1 {
+	position: absolute;
+	left: 701.35px;
+	top: 27.389999999999997px;
+	width: 27.389999999999997px;
+	height: 27.389999999999997px;
+	object-fit: cover;
+	overflow: hidden;
+}
+
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Bitcoin_1 {
+		width: 4%;
+	}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Bitcoin_1 {
+		width: 3%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Bitcoin_1 {
+		width: 2%;
+	}
+}
+.Transcation_Transcation .Polygon2 {
+	position: absolute;
+	left: 962.8px;
+	top: 27.389999999999997px;
+	width: 32.37px;
+	height: 32.37px;
+	background: rgba(19,251,42,1.00);
+}
+.Transcation_Transcation .Ellipse14 {
+	position: absolute;
+	left: 1384.4399999999998px;
+	top: 8.299999999999999px;
+	width: 14.94px;
+	height: 14.94px;
+	background: rgba(19,251,42,1.00);
+	border-radius: 50%;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Ellipse14 {
+		width: 2%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Ellipse14 {
+		width: 1.5%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Ellipse14 {
+		width: 1%;
+	}
+}
+.Transcation_Transcation .Rectangle3013 {
+	position: absolute;
+	left: 187.57999999999998px;
+	top: 14.11px;
+	width: 463.14px;
+	height: 46.48px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 41.5px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Rectangle3013 {
+		width: 70%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Rectangle3013 {
+		width: 60%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Rectangle3013 {
+		width: 35%;
+	}
+}
+.Transcation_Transcation .IconsaxLinearsearchnormal {
+	position: absolute;
+	left: 207.5px;
+	top: 23.24px;
+	width: 29.88px;
+	height: 29.88px;
+}
+.Transcation_Transcation .IconsaxLinearsearchnormal .Vector_3 {
+	position: absolute;
+	left: 2.4899999999999998px;
+	top: 2.4899999999999998px;
+	width: 83.32078721788194%;
+	height: 83.34774441189236%;
+}
+.Transcation_Transcation .SearchHere {
+	position: absolute;
+	left: 259.78999999999996px;
+	top: 22.41px;
+	width: 164.34px;
+	height: 31.54px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 24.9px;
+	font-weight: 700;
+	line-height: 31.24950126647949px;
+}
+.Transcation_Transcation .IconsaxLinearmicrophone2 {
+	position: absolute;
+	left: 602.5799999999999px;
+	top: 23.24px;
+	width: 29.88px;
+	height: 29.88px;
+}
+.Transcation_Transcation .IconsaxLinearmicrophone2 .Vector_4 {
+	position: absolute;
+	left: 9.959999999999999px;
+	top: 2.4899999999999998px;
+	width: 33.33333333333333%;
+	height: 56.25%;
+}
+.Transcation_Transcation .IconsaxLinearmicrophone2 .Vector_5 {
+	position: absolute;
+	left: 5.415744934082031px;
+	top: 7.697206420898437px;
+	width: 63.749991522894966%;
+	height: 65.90627034505209%;
+}
+.Transcation_Transcation .image10 {
+	position: absolute;
+	left: 2.4899999999999998px;
+	top: 0px;
+	width: 185.09px;
+	height: 71.38px;
+	object-fit: cover;
+	overflow: hidden;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .image10 {
+		width: 30%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .image10 {
+		width: 25%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .image10 {
+		width: 15%;
+	}
+}
+.Transcation_Transcation .Rectangle3157 {
+	position: absolute;
+	left: 133.63px;
+	top: 127.82px;
+	width: 212.48px;
+	height: 176.79px;
+	background: rgba(199,246,9,1.00);
+	border-radius: 16.599999999999998px;
+}
+.Transcation_Transcation .Rectangle3168 {
+	position: absolute;
+	left: 353.58px;
+	top: 127.82px;
+	width: 212.48px;
+	height: 176.79px;
+	background: rgba(199,246,9,1.00);
+	border-radius: 16.599999999999998px;
+}
+.Transcation_Transcation .Rectangle3169 {
+	position: absolute;
+	left: 577.68px;
+	top: 123.66999999999999px;
+	width: 212.48px;
+	height: 176.79px;
+	background: rgba(199,246,9,1.00);
+	border-radius: 16.599999999999998px;
+}
+.Transcation_Transcation .Rectangle3170 {
+	position: absolute;
+	left: 801.78px;
+	top: 119.52px;
+	width: 212.48px;
+	height: 176.79px;
+	background: rgba(199,246,9,1.00);
+	border-radius: 16.599999999999998px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Rectangle3157,
+	.Transcation_Transcation .Rectangle3168,
+	.Transcation_Transcation .Rectangle3169,
+	.Transcation_Transcation .Rectangle3170 {
+		width: 35%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Rectangle3157,
+	.Transcation_Transcation .Rectangle3168,
+	.Transcation_Transcation .Rectangle3169,
+	.Transcation_Transcation .Rectangle3170 {
+		width: 25%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Rectangle3157,
+	.Transcation_Transcation .Rectangle3168,
+	.Transcation_Transcation .Rectangle3169,
+	.Transcation_Transcation .Rectangle3170 {
+		width: 15%;	}
+}
+.Transcation_Transcation .Ellipse57 {
+	position: absolute;
+	left: 154.38px;
+	top: 146.91px;
+	width: 61.419999999999995px;
+	height: 61.419999999999995px;
+	background: rgba(248,254,223,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse58 {
+	position: absolute;
+	left: 377.65px;
+	top: 144.42px;
+	width: 61.419999999999995px;
+	height: 61.419999999999995px;
+	background: rgba(235,255,154,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse59 {
+	position: absolute;
+	left: 596.77px;
+	top: 136.12px;
+	width: 61.419999999999995px;
+	height: 61.419999999999995px;
+	background: rgba(235,255,154,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse60 {
+	position: absolute;
+	left: 825.8499999999999px;
+	top: 135.29px;
+	width: 61.419999999999995px;
+	height: 61.419999999999995px;
+	background: rgba(235,255,154,1.00);
+	border-radius: 50%;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Ellipse57,
+	.Transcation_Transcation .Ellipse58,
+	.Transcation_Transcation .Ellipse59,
+	.Transcation_Transcation .Ellipse60 {
+		width: 8%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Ellipse57,
+	.Transcation_Transcation .Ellipse58,
+	.Transcation_Transcation .Ellipse59,
+	.Transcation_Transcation .Ellipse60 {
+		width: 6%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Ellipse57,
+	.Transcation_Transcation .Ellipse58,
+	.Transcation_Transcation .Ellipse59,
+	.Transcation_Transcation .Ellipse60 {
+		width: 4%;
+	}
+}
+.Transcation_Transcation .IconsaxLinearwallet3 {
+	position: absolute;
+	left: 164.34px;
+	top: 154.38px;
+	width: 41.5px;
+	height: 41.5px;
+}
+.Transcation_Transcation .IconsaxLinearwallet3 .Vector_6 {
+	position: absolute;
+	left: 3.4583502197265625px;
+	top: 4.910850219726562px;
+	width: 54.1666259765625%;
+	height: 34.625%;
+}
+.Transcation_Transcation .IconsaxLinearwallet3 .Vector_7 {
+	position: absolute;
+	left: 3.4583502197265625px;
+	top: 10.634375px;
+	width: 75%;
+	height: 62.5%;
+}
+.Transcation_Transcation .IconsaxLinearwallet3 .Vector_8 {
+	position: absolute;
+	left: 29.17254455566406px;
+	top: 20.058350219726563px;
+	width: 21.371337890625%;
+	height: 17.0833740234375%;
+}
+
+.Transcation_Transcation .Balance {
+	position: absolute;
+	left: 161.01999999999998px;
+	top: 226.58999999999997px;
+	width: 86.32px;
+	height: 28.22px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 22.41px;
+	font-weight: 700;
+	line-height: 28.12454860687256px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Balance {
+		width: 90%;
+		font-size: 4vw;
+		line-height: 5vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Balance {
+		width: 70%;
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Balance {
+		width: 50%;
+		font-size: 2.5vw;
+		line-height: 3vw;
+	}
+}
+.Transcation_Transcation .Income {
+	position: absolute;
+	left: 378.47999999999996px;
+	top: 220.78px;
+	width: 77.19px;
+	height: 28.22px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 22.41px;
+	font-weight: 700;
+	line-height: 28.12454860687256px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Income {
+		width: 90%;
+		font-size: 4vw;
+		line-height: 5vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Income {
+		width: 70%;
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Income {
+		width: 50%;
+		font-size: 2.5vw;
+		line-height: 3vw;
+	}
+}
+.Transcation_Transcation .Spending {
+	position: absolute;
+	left: 608.39px;
+	top: 215.79999999999998px;
+	width: 102.08999999999999px;
+	height: 28.22px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 22.41px;
+	font-weight: 700;
+	line-height: 28.12454860687256px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Spending {
+		width: 90%;
+		font-size: 4vw;
+		line-height: 5vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Spending{
+		width: 70%;
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Spending {
+		width: 50%;
+		font-size: 2.5vw;
+		line-height: 3vw;
+	}
+}
+.Transcation_Transcation .NetProfit {
+	position: absolute;
+	left: 822.53px;
+	top: 210.82px;
+	width: 102.92px;
+	height: 28.22px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 22.41px;
+	font-weight: 700;
+	line-height: 28.12454860687256px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .NetProfit {
+		width: 90%;
+		font-size: 4vw;
+		line-height: 5vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .NetProfit {
+		width: 70%;
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .NetProfit {
+		width: 50%;
+		font-size: 2.5vw;
+		line-height: 3vw;
+	}
+}
+.Transcation_Transcation ._345012 {
+	position: absolute;
+	left: 161.01999999999998px;
+	top: 259.78999999999996px;
+	width: 132.79999999999998px;
+	height: 37.35px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 29.88px;
+	font-weight: 600;
+	line-height: 37.499400253295896px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation ._345012 {
+		width: 90%;
+		font-size: 5vw;
+		line-height: 6vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation ._345012 {
+		width: 70%;
+		font-size: 4vw;
+		line-height: 5vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation ._345012 {
+		width: 50%;
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+.Transcation_Transcation ._2130 {
+	position: absolute;
+	left: 378.47999999999996px;
+	top: 253.98px;
+	width: 97.11px;
+	height: 37.35px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 29.88px;
+	font-weight: 600;
+	line-height: 37.499400253295896px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation ._2130 {
+		width: 90%;
+		font-size: 5vw;
+		line-height: 6vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation ._2130 {
+		width: 70%;
+		font-size: 4vw;
+		line-height: 5vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation ._2130 {
+		width: 50%;
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+.Transcation_Transcation ._185612 {
+	position: absolute;
+	left: 608.39px;
+	top: 256.46999999999997px;
+	width: 132.79999999999998px;
+	height: 37.35px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 29.88px;
+	font-weight: 600;
+	line-height: 37.499400253295896px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation ._185612 {
+		width: 90%;
+		font-size: 5vw;
+		line-height: 6vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation ._185612 {
+		width: 70%;
+		font-size: 4vw;
+		line-height: 5vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation ._185612 {
+		width: 50%;
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+.Transcation_Transcation ._19112 {
+	position: absolute;
+	left: 822.53px;
+	top: 249px;
+	width: 115.36999999999999px;
+	height: 37.35px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 29.88px;
+	font-weight: 600;
+	line-height: 37.499400253295896px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation ._19112 {
+		width: 90%;
+		font-size: 5vw;
+		line-height: 6vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation ._19112 {
+		width: 70%;
+		font-size: 4vw;
+		line-height: 5vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation ._19112 {
+		width: 50%;
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+.Transcation_Transcation .IconsaxLinearmore {
+	position: absolute;
+	left: 317.06px;
+	top: 142.76px;
+	width: 24.9px;
+	height: 24.9px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .IconsaxLinearmore {
+		width: 8%;
+		
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .IconsaxLinearmore {
+		width: 5%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .IconsaxLinearmore {
+		width: 4%;
+	}
+}
+.Transcation_Transcation .IconsaxLinearmore .Vector_9 {
+	position: absolute;
+	left: 10.375px;
+	top: 3.1125px;
+	width: 16.666666666666664%;
+	height: 75%;
+}
+.Transcation_Transcation .IconsaxLinearmore_1 {
+	position: absolute;
+	left: 530.37px;
+	top: 142.76px;
+	width: 24.9px;
+	height: 24.9px;
+}
+.Transcation_Transcation .IconsaxLinearmore_1 .Vector_10 {
+	position: absolute;
+	left: 10.375px;
+	top: 3.1125px;
+	width: 16.666666666666664%;
+	height: 75%;
+}
+.Transcation_Transcation .IconsaxLinearmore_2 {
+	position: absolute;
+	left: 837.4699999999999px;
+	top: 146.07999999999998px;
+	width: 24.9px;
+	height: 24.9px;
+}
+.Transcation_Transcation .Vector_11 {
+	position: absolute;
+	left: 762.77px;
+	top: 219.31615234375px;
+	width: 0.28935185185185186%;
+	height: 2.014323935739043%;
+}
+.Transcation_Transcation .IconsaxLinearmore_3 {
+	position: absolute;
+	left: 962.8px;
+	top: 141.93px;
+	width: 24.9px;
+	height: 24.9px;
+}
+.Transcation_Transcation .IconsaxLinearmore_3 .Vector_12 {
+	position: absolute;
+	left: 10.375px;
+	top: 3.1125px;
+	width: 16.666666666666664%;
+	height: 75%;
+}
+.Transcation_Transcation .Profit {
+	position: absolute;
+	left: 389.27px;
+	top: 151.06px;
+	width: 41.5px;
+	height: 41.5px;
+	object-fit: cover;
+	overflow: hidden;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Profit {
+		width: 10%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Profit {
+		width: 5%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Profit {
+		width: 3%;
+	}
+}
+
+.Transcation_Transcation .Rectangle3161 {
+	position: absolute;
+	left: 110.39px;
+	top: 334.49px;
+	width: 937.9px;
+	height: 475.59px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 33.199999999999996px;
+	border: 1px solid rgba(204.00000303983688,204.00000303983688,204.00000303983688,1);
+	box-sizing: border-box;
+}
+.Transcation_Transcation .Rectangle3175 {
+	position: absolute;
+	left: 110.39px;
+	top: 840.79px;
+	width: 937.9px;
+	height: 475.59px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 33.199999999999996px;
+	border: 1px solid rgba(204.00000303983688,204.00000303983688,204.00000303983688,1);
+	box-sizing: border-box;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Rectangle3161,
+	.Transcation_Transcation .Rectangle3175 {
+		width: 200%;
+		border-radius: 10vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Rectangle3161,
+	.Transcation_Transcation .Rectangle3175 {
+		width: 110%;
+		border-radius: 7vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Rectangle3161,
+	.Transcation_Transcation .Rectangle3175 {
+		width: 70%;
+		border-radius: 5vw;
+	}
+}
+.Transcation_Transcation .ScheduledPayments {
+	position: absolute;
+	left: 154.38px;
+	top: 364.37px;
+	width: 223.26999999999998px;
+	height: 28.22px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 22.41px;
+	font-weight: 700;
+	line-height: 28.12454860687256px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .ScheduledPayments {
+		width: 90%;
+		font-size: 4vw;
+		line-height: 5vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .ScheduledPayments {
+		width: 70%;
+		font-size: 3vw;
+		line-height: 4vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .ScheduledPayments {
+		width: 50%;
+		font-size: 2.5vw;
+		line-height: 3vw;
+	}
+}
+.Transcation_Transcation .Spendingcut {
+	position: absolute;
+	left: 605.9px;
+	top: 146.91px;
+	width: 41.5px;
+	height: 41.5px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Transcation_Transcation .Profits {
+	position: absolute;
+	left: 835.81px;
+	top: 142.76px;
+	width: 41.5px;
+	height: 41.5px;
+	object-fit: cover;
+	overflow: hidden;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Spendingcut,
+	.Transcation_Transcation .Profits {
+		width: 13%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Spendingcut,
+	.Transcation_Transcation .Profits {
+		width: 6%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Spendingcut,
+	.Transcation_Transcation .Profits {
+		width: 3%;
+	}
+}
+.Transcation_Transcation .Ellipse63 {
+	position: absolute;
+	left: 307.09999999999997px;
+	top: 452.34999999999997px;
+	width: 273.9px;
+	height: 273.9px;
+	border-radius: 50%;
+	border: 1px solid rgba(204.00000303983688,204.00000303983688,204.00000303983688,1);
+	box-sizing: border-box;
+}
+.Transcation_Transcation .Ellipse64 {
+	position: absolute;
+	left: 269.94939453125px;
+	top: 411.7332934570312px;
+	width: 362.8893588256836px;
+	height: 362.88938415527343px;
+	background: rgba(163,136,242,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse65 {
+	position: absolute;
+	left: 257.3px;
+	top: 404.21px;
+	width: 394.4873382568359px;
+	height: 394.4873382568359px;
+	background: rgba(242,37,86,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse61 {
+	position: absolute;
+	left: 249.00025329589843px;
+	top: 386.78px;
+	width: 389.51686218261716px;
+	height: 391.9403466796875px;
+	background: rgba(245,210,142,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse62 {
+	position: absolute;
+	left: 215.7995440673828px;
+	top: 362.7098986816406px;
+	width: 458.75377624511714px;
+	height: 457.84044189453124px;
+	background: rgba(160,236,84,1.00);
+	border-radius: 50%;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .Ellipse63 {
+		width: 60%;
+	}
+
+	.Transcation_Transcation .Ellipse64 {
+		width: 70%;
+	}
+
+	.Transcation_Transcation .Ellipse65 {
+		width: 75%;
+	}
+
+	.Transcation_Transcation .Ellipse61 {
+		width: 75%;
+	}
+
+	.Transcation_Transcation .Ellipse62 {
+		width: 80%;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Ellipse63 {
+		width: 50%;
+	}
+
+	.Transcation_Transcation .Ellipse64 {
+		width: 60%;
+	}
+
+	.Transcation_Transcation .Ellipse65 {
+		width: 65%;
+	}
+
+	.Transcation_Transcation .Ellipse61 {
+		width: 65%;
+	}
+
+	.Transcation_Transcation .Ellipse62 {
+		width: 70%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Ellipse63 {
+		width: 40%;
+	}
+
+	.Transcation_Transcation .Ellipse64 {
+		width: 50%;
+	}
+
+	.Transcation_Transcation .Ellipse65 {
+		width: 55%;
+	}
+
+	.Transcation_Transcation .Ellipse61 {
+		width: 55%;
+	}
+
+	.Transcation_Transcation .Ellipse62 {
+		width: 60%;
+	}
+}
+.Transcation_Transcation .CorporateCard {
+	position: absolute;
+	left: 161.85px;
+	top: 480.57px;
+	width: 120.35px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Invoice {
+	position: absolute;
+	left: 215.79999999999998px;
+	top: 945.37px;
+	width: 57.269999999999996px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 900;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Date {
+	position: absolute;
+	left: 455.66999999999996px;
+	top: 945.37px;
+	width: 39.839999999999996px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 900;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Status {
+	position: absolute;
+	left: 663.17px;
+	top: 945.37px;
+	width: 54.779999999999994px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 900;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Amount {
+	position: absolute;
+	left: 859.88px;
+	top: 945.37px;
+	width: 66.39999999999999px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 900;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .DebitCard {
+	position: absolute;
+	left: 161.85px;
+	top: 516.26px;
+	width: 83.83px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .CreditCard {
+	position: absolute;
+	left: 161.85px;
+	top: 551.12px;
+	width: 88.81px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Cash {
+	position: absolute;
+	left: 161.85px;
+	top: 583.49px;
+	width: 39.839999999999996px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation .CorporateCard,
+	.Transcation_Transcation .Invoice,
+	.Transcation_Transcation .Date,
+	.Transcation_Transcation .Status,
+	.Transcation_Transcation .Amount,
+	.Transcation_Transcation .DebitCard,
+	.Transcation_Transcation .CreditCard,
+	.Transcation_Transcation .Cash {
+		font-size: 3vw;
+		line-height: 3.75vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .CorporateCard,
+	.Transcation_Transcation .Invoice,
+	.Transcation_Transcation .Date,
+	.Transcation_Transcation .Status,
+	.Transcation_Transcation .Amount,
+	.Transcation_Transcation .DebitCard,
+	.Transcation_Transcation .CreditCard,
+	.Transcation_Transcation .Cash {
+		font-size: 2.2vw;
+		line-height: 2.75vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .CorporateCard,
+	.Transcation_Transcation .Invoice,
+	.Transcation_Transcation .Date,
+	.Transcation_Transcation .Status,
+	.Transcation_Transcation .Amount,
+	.Transcation_Transcation .DebitCard,
+	.Transcation_Transcation .CreditCard,
+	.Transcation_Transcation .Cash {
+		font-size: 1.8vw;
+		line-height: 2.25vw;
+	}
+}
+.Transcation_Transcation .Ellipse66 {
+	position: absolute;
+	left: 130.31px;
+	top: 482.22999999999996px;
+	width: 17.43px;
+	height: 17.43px;
+	background: rgba(245,210,142,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse67 {
+	position: absolute;
+	left: 130.31px;
+	top: 517.92px;
+	width: 17.43px;
+	height: 17.43px;
+	background: rgba(163,136,242,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse68 {
+	position: absolute;
+	left: 130.31px;
+	top: 553.61px;
+	width: 17.43px;
+	height: 17.43px;
+	background: rgba(160,236,84,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse69 {
+	position: absolute;
+	left: 130.31px;
+	top: 589.3px;
+	width: 17.43px;
+	height: 17.43px;
+	background: rgba(242,37,86,1.00);
+	border-radius: 50%;
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation .Ellipse66,
+	.Transcation_Transcation .Ellipse67,
+	.Transcation_Transcation .Ellipse68,
+	.Transcation_Transcation .Ellipse69 {
+		width: 4vw;
+		height: 4vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation .Ellipse66,
+	.Transcation_Transcation .Ellipse67,
+	.Transcation_Transcation .Ellipse68,
+	.Transcation_Transcation .Ellipse69 {
+		width: 2.9vw;
+		height: 2.9vw;
+	}
+}
+.Transcation_Transcation ._25 {
+	position: absolute;
+	left: 378.47999999999996px;
+	top: 488.03999999999996px;
+	width: 35.69px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation ._45 {
+	position: absolute;
+	left: 495.51px;
+	top: 498px;
+	width: 35.69px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation ._65 {
+	position: absolute;
+	left: 495.51px;
+	top: 645.74px;
+	width: 35.69px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation ._55 {
+	position: absolute;
+	left: 341.96px;
+	top: 611.7099999999999px;
+	width: 35.69px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+@media screen and (max-width: 767px) {
+
+	/* Styles for screens smaller than 768px */
+	.Transcation_Transcation ._25,
+	.Transcation_Transcation ._45,
+	.Transcation_Transcation ._65,
+	.Transcation_Transcation ._55 {
+		font-size: 3vw;
+		line-height: 3.75vw;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+	/* Styles for screens between 768px and 1023px */
+	.Transcation_Transcation ._25,
+	.Transcation_Transcation ._45,
+	.Transcation_Transcation ._65,
+	.Transcation_Transcation ._55 {
+		font-size: 2.2vw;
+		line-height: 2.75vw;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	/* Styles for screens larger than 1023px */
+	.Transcation_Transcation ._25,
+	.Transcation_Transcation ._45,
+	.Transcation_Transcation ._65,
+	.Transcation_Transcation ._55 {
+		font-size: 1.8vw;
+		line-height: 2.25vw;
+	}
+}
+.Transcation_Transcation .Rectangle3162 {
+	position: absolute;
+	left: 650.7199999999999px;
+	top: 404.21px;
+	width: 175.13px;
+	height: 89.64px;
+	background: rgba(248,254,223,1.00);
+	border-radius: 16.599999999999998px;
+}
+.Transcation_Transcation .Rectangle3164 {
+	position: absolute;
+	left: 659.85px;
+	top: 518.75px;
+	width: 158.53px;
+	height: 89.64px;
+	background: rgba(248,254,223,1.00);
+	border-radius: 16.599999999999998px;
+}
+.Transcation_Transcation .Rectangle3163 {
+	position: absolute;
+	left: 830.8299999999999px;
+	top: 405.03999999999996px;
+	width: 154.38px;
+	height: 89.64px;
+	background: rgba(248,254,223,1.00);
+	border-radius: 16.599999999999998px;
+}
+.Transcation_Transcation .Rectangle3165 {
+	position: absolute;
+	left: 835.81px;
+	top: 518.75px;
+	width: 152.72px;
+	height: 89.64px;
+	background: rgba(248,254,223,1.00);
+	border-radius: 16.599999999999998px;
+}
+
+.Transcation_Transcation .CorporateCard_1 {
+	position: absolute;
+	left: 674.79px;
+	top: 419.15px;
+	width: 122.00999999999999px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .CreditCard_1 {
+	position: absolute;
+	left: 693.88px;
+	top: 535.35px;
+	width: 90.47px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Cash_1 {
+	position: absolute;
+	left: 891.42px;
+	top: 527.88px;
+	width: 39.839999999999996px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .DebitCard_1 {
+	position: absolute;
+	left: 863.1999999999999px;
+	top: 416.65999999999997px;
+	width: 85.49px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 700;
+	line-height: 20.833000316619874px;
+}
+
+.Transcation_Transcation ._269000 {
+	position: absolute;
+	left: 674.79px;
+	top: 446.53999999999996px;
+	width: 118.69px;
+	height: 33.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.56px;
+	font-weight: 700;
+	line-height: 33.33279987335205px;
+}
+.Transcation_Transcation ._532490 {
+	position: absolute;
+	left: 683.92px;
+	top: 561.91px;
+	width: 118.69px;
+	height: 33.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.56px;
+	font-weight: 700;
+	line-height: 33.33279987335205px;
+}
+.Transcation_Transcation ._90000 {
+	position: absolute;
+	left: 859.88px;
+	top: 561.0799999999999px;
+	width: 102.92px;
+	height: 33.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.56px;
+	font-weight: 700;
+	line-height: 33.33279987335205px;
+}
+.Transcation_Transcation ._643560 {
+	position: absolute;
+	left: 849.92px;
+	top: 445.71px;
+	width: 118.69px;
+	height: 33.199999999999996px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.56px;
+	font-weight: 700;
+	line-height: 33.33279987335205px;
+}
+
+.Transcation_Transcation .Rectangle3166 {
+	position: absolute;
+	left: 1071.53px;
+	top: 97.11px;
+	width: 344.45px;
+	height: 1189.3899999999999px;
+	background: rgba(255,255,255,1.00);
+	border: 1px solid rgba(204.00000303983688,204.00000303983688,204.00000303983688,1);
+	box-sizing: border-box;
+}
+
+.Transcation_Transcation .TotalAmount {
+	position: absolute;
+	left: 1084.81px;
+	top: 122.83999999999999px;
+	width: 129.48px;
+	height: 24.9px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 700;
+	line-height: 24.999599113464356px;
+}
+.Transcation_Transcation .Rectangle3167 {
+	position: absolute;
+	left: 1323.85px;
+	top: 117.86px;
+	width: 77.19px;
+	height: 35.69px;
+	border-radius: 33.199999999999996px;
+	border: 3px solid rgba(198.60000640153885,246.0000005364418,9.000000413507223,1);
+	box-sizing: border-box;
+}
+.Transcation_Transcation .AllTime {
+	position: absolute;
+	left: 1336.3px;
+	top: 125.33px;
+	width: 53.12px;
+	height: 16.599999999999998px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 800;
+	line-height: 16.666399936676026px;
+}
+
+.Transcation_Transcation .Ellipse70 {
+	position: absolute;
+	left: 1082.3203799438477px;
+	top: 180.10999999999999px;
+	width: 306.95159393310547px;
+	height: 307.97356689453125px;
+	background: rgba(245,210,142,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse72 {
+	position: absolute;
+	left: 1121.3302026367187px;
+	top: 197.54010131835938px;
+	width: 230.49663330078124px;
+	height: 227.96575134277342px;
+	background: rgba(163,136,242,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse73 {
+	position: absolute;
+	left: 1098.09px;
+	top: 162.67984802246093px;
+	width: 310.0300256347656px;
+	height: 310.9280609130859px;
+	background: rgba(160,236,84,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Ellipse74 {
+	position: absolute;
+	left: 1114.69px;
+	top: 195.8799493408203px;
+	width: 274.0932647705078px;
+	height: 272.19899139404293px;
+	background: rgba(242,37,86,1.00);
+	border-radius: 50%;
+}
+.Transcation_Transcation .Rectangle3171 {
+	position: absolute;
+	left: 1088.1299999999999px;
+	top: 180.10999999999999px;
+	width: 99.6px;
+	height: 49.8px;
+	background: rgba(163,136,242,1.00);
+	border-radius: 16.599999999999998px;
+}
+.Transcation_Transcation .Rectangle3172 {
+	position: absolute;
+	left: 1074.02px;
+	top: 401.71999999999997px;
+	width: 99.6px;
+	height: 49.8px;
+	background: rgba(245,210,142,1.00);
+	border-radius: 16.599999999999998px;
+}
+.Transcation_Transcation .Rectangle3174 {
+	position: absolute;
+	left: 1313.06px;
+	top: 213.31px;
+	width: 99.6px;
+	height: 49.8px;
+	background: rgba(160,236,84,1.00);
+	border-radius: 16.599999999999998px;
+}
+.Transcation_Transcation ._2018850 {
+	position: absolute;
+	left: 1121.33px;
+	top: 187.57999999999998px;
+	width: 32.37px;
+	height: 33.199999999999996px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 800;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation ._20222200 {
+	position: absolute;
+	left: 1105.56px;
+	top: 410.02px;
+	width: 32.37px;
+	height: 33.199999999999996px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 800;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation ._20191000 {
+	position: absolute;
+	left: 1346.26px;
+	top: 223.26999999999998px;
+	width: 32.37px;
+	height: 33.199999999999996px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 800;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .ProfitinUSDT {
+	position: absolute;
+	left: 1201.01px;
+	top: 304.61px;
+	width: 78.02px;
+	height: 49.8px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 19.919999999999998px;
+	font-weight: 800;
+	line-height: 24.999599113464356px;
+}
+.Transcation_Transcation .Line229 {
+	position: absolute;
+	left: 1104.73px;
+	top: 498.83px;
+	width: 283.86px;
+	height: 0px;
+	border: 1px solid rgba(198.60000640153885,246.0000005364418,9.000000413507223,1);
+}
+.Transcation_Transcation .ActiveCustomer {
+	position: absolute;
+	left: 1127.1399999999999px;
+	top: 528.7099999999999px;
+	width: 208.32999999999998px;
+	height: 33.199999999999996px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.56px;
+	font-weight: 700;
+	line-height: 33.33279987335205px;
+}
+.Transcation_Transcation .TransactionOverview {
+	position: absolute;
+	left: 168.48999999999998px;
+	top: 875.65px;
+	width: 276.39px;
+	height: 33.199999999999996px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 26.56px;
+	font-weight: 700;
+	line-height: 33.33279987335205px;
+}
+.Transcation_Transcation .Name {
+	position: absolute;
+	left: 1104.73px;
+	top: 588.47px;
+	width: 53.949999999999996px;
+	height: 24.07px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 19.09px;
+	font-weight: 700;
+	line-height: 23.957949810028076px;
+}
+.Transcation_Transcation .Purchase {
+	position: absolute;
+	left: 1290.6499999999999px;
+	top: 588.47px;
+	width: 84.66px;
+	height: 24.07px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 19.09px;
+	font-weight: 700;
+	line-height: 23.957949810028076px;
+}
+.Transcation_Transcation .Ellipse75 {
+	position: absolute;
+	left: 1084.81px;
+	top: 628.31px;
+	width: 49.8px;
+	height: 49.8px;
+	background: linear-gradient(0deg, rgba(217,217,217,1.00), rgba(217,217,217,1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+.Transcation_Transcation .Ellipse76 {
+	position: absolute;
+	left: 1084.81px;
+	top: 718.78px;
+	width: 49.8px;
+	height: 49.8px;
+	background: linear-gradient(0deg, rgba(217,217,217,1.00), rgba(217,217,217,1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+.Transcation_Transcation .Ellipse77 {
+	position: absolute;
+	left: 1084.81px;
+	top: 809.25px;
+	width: 49.8px;
+	height: 49.8px;
+	background: linear-gradient(0deg, rgba(217,217,217,1.00), rgba(217,217,217,1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+.Transcation_Transcation .Ellipse78 {
+	position: absolute;
+	left: 1084.81px;
+	top: 905.53px;
+	width: 49.8px;
+	height: 49.8px;
+	background: linear-gradient(0deg, rgba(217,217,217,1.00), rgba(217,217,217,1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+.Transcation_Transcation .Ellipse79 {
+	position: absolute;
+	left: 1084.81px;
+	top: 1001.81px;
+	width: 49.8px;
+	height: 49.8px;
+	background: linear-gradient(0deg, rgba(217,217,217,1.00), rgba(217,217,217,1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+.Transcation_Transcation .Ellipse80 {
+	position: absolute;
+	left: 1084.81px;
+	top: 1098.09px;
+	width: 49.8px;
+	height: 49.8px;
+	background: linear-gradient(0deg, rgba(217,217,217,1.00), rgba(217,217,217,1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+.Transcation_Transcation .Ellipse81 {
+	position: absolute;
+	left: 1084.81px;
+	top: 1194.37px;
+	width: 49.8px;
+	height: 49.8px;
+	background: linear-gradient(0deg, rgba(217,217,217,1.00), rgba(217,217,217,1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+.Transcation_Transcation .AmyRay {
+	position: absolute;
+	left: 1142.9099999999999px;
+	top: 629.14px;
+	width: 58.099999999999994px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Amy34gmailcom {
+	position: absolute;
+	left: 1142.9099999999999px;
+	top: 649.89px;
+	width: 122.83999999999999px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Amy34gmailcom_1 {
+	position: absolute;
+	left: 1142.9099999999999px;
+	top: 743.68px;
+	width: 122.83999999999999px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Amy34gmailcom_2 {
+	position: absolute;
+	left: 1142.9099999999999px;
+	top: 837.4699999999999px;
+	width: 122.83999999999999px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Amy34gmailcom_3 {
+	position: absolute;
+	left: 1142.9099999999999px;
+	top: 933.75px;
+	width: 122.83999999999999px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Amy34gmailcom_4 {
+	position: absolute;
+	left: 1142.9099999999999px;
+	top: 1030.03px;
+	width: 122.83999999999999px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Amy34gmailcom_5 {
+	position: absolute;
+	left: 1142.9099999999999px;
+	top: 1126.31px;
+	width: 122.83999999999999px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Amy34gmailcom_6 {
+	position: absolute;
+	left: 1142.9099999999999px;
+	top: 1222.59px;
+	width: 122.83999999999999px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .JackDone {
+	position: absolute;
+	left: 1139.59px;
+	top: 722.93px;
+	width: 64.74px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .RachelHow {
+	position: absolute;
+	left: 1143.74px;
+	top: 816.7199999999999px;
+	width: 76.36px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .RachelHow_1 {
+	position: absolute;
+	left: 1143.74px;
+	top: 913px;
+	width: 76.36px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .RachelHow_2 {
+	position: absolute;
+	left: 1143.74px;
+	top: 1009.28px;
+	width: 76.36px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .RachelHow_3 {
+	position: absolute;
+	left: 1143.74px;
+	top: 1105.56px;
+	width: 76.36px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .RachelHow_4 {
+	position: absolute;
+	left: 1143.74px;
+	top: 1201.84px;
+	width: 76.36px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Monthly {
+	position: absolute;
+	left: 1308.08px;
+	top: 634.9499999999999px;
+	width: 51.46px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Monthly_1 {
+	position: absolute;
+	left: 1308.08px;
+	top: 731.23px;
+	width: 51.46px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Yearly {
+	position: absolute;
+	left: 1314.72px;
+	top: 827.51px;
+	width: 39.01px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Yearly_1 {
+	position: absolute;
+	left: 1314.72px;
+	top: 923.79px;
+	width: 39.01px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Yearly_2 {
+	position: absolute;
+	left: 1314.72px;
+	top: 1020.0699999999999px;
+	width: 39.01px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Yearly_3 {
+	position: absolute;
+	left: 1314.72px;
+	top: 1116.35px;
+	width: 39.01px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Yearly_4 {
+	position: absolute;
+	left: 1314.72px;
+	top: 1212.6299999999999px;
+	width: 39.01px;
+	height: 16.599999999999998px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 13.28px;
+	font-weight: 700;
+	line-height: 16.666399936676026px;
+}
+.Transcation_Transcation .Rectangle3176 {
+	position: absolute;
+	left: 147.73999999999998px;
+	top: 988.53px;
+	width: 42.33px;
+	height: 38.18px;
+	border-radius: 8.299999999999999px;
+	border: 1px solid rgba(204.00000303983688,204.00000303983688,204.00000303983688,1);
+	box-sizing: border-box;
+}
+.Transcation_Transcation .Rectangle3177 {
+	position: absolute;
+	left: 147.73999999999998px;
+	top: 1088.96px;
+	width: 42.33px;
+	height: 38.18px;
+	border-radius: 8.299999999999999px;
+	border: 1px solid rgba(204.00000303983688,204.00000303983688,204.00000303983688,1);
+	box-sizing: border-box;
+}
+.Transcation_Transcation .Rectangle3178 {
+	position: absolute;
+	left: 147.73999999999998px;
+	top: 1186.8999999999999px;
+	width: 42.33px;
+	height: 38.18px;
+	border-radius: 8.299999999999999px;
+	border: 1px solid rgba(204.00000303983688,204.00000303983688,204.00000303983688,1);
+	box-sizing: border-box;
+}
+.Transcation_Transcation ._3456 {
+	position: absolute;
+	left: 219.11999999999998px;
+	top: 997.66px;
+	width: 49.8px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Jan62022 {
+	position: absolute;
+	left: 430.77px;
+	top: 997.66px;
+	width: 88.81px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation ._58967 {
+	position: absolute;
+	left: 863.1999999999999px;
+	top: 997.66px;
+	width: 63.91px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation ._58967_1 {
+	position: absolute;
+	left: 863.1999999999999px;
+	top: 1098.09px;
+	width: 63.91px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation ._58967_2 {
+	position: absolute;
+	left: 863.1999999999999px;
+	top: 1200.1799999999998px;
+	width: 63.91px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Jan62022_1 {
+	position: absolute;
+	left: 424.96px;
+	top: 1098.09px;
+	width: 88.81px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Jan62022_2 {
+	position: absolute;
+	left: 419.15px;
+	top: 1200.1799999999998px;
+	width: 88.81px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation ._3456_1 {
+	position: absolute;
+	left: 219.11999999999998px;
+	top: 1098.09px;
+	width: 49.8px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation ._3456_2 {
+	position: absolute;
+	left: 219.11999999999998px;
+	top: 1196.03px;
+	width: 49.8px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Rectangle3179 {
+	position: absolute;
+	left: 638.27px;
+	top: 989.3599999999999px;
+	width: 98.77px;
+	height: 49.8px;
+	border-radius: 33.199999999999996px;
+	border: 3px solid rgba(198.60000640153885,246.0000005364418,9.000000413507223,1);
+	box-sizing: border-box;
+}
+.Transcation_Transcation .Rectangle3180 {
+	position: absolute;
+	left: 638.27px;
+	top: 1084.81px;
+	width: 98.77px;
+	height: 49.8px;
+	border-radius: 33.199999999999996px;
+	border: 3px solid rgba(198.60000640153885,246.0000005364418,9.000000413507223,1);
+	box-sizing: border-box;
+}
+.Transcation_Transcation .Rectangle3181 {
+	position: absolute;
+	left: 638.27px;
+	top: 1181.09px;
+	width: 98.77px;
+	height: 49.8px;
+	border-radius: 33.199999999999996px;
+	border: 3px solid rgba(198.60000640153885,246.0000005364418,9.000000413507223,1);
+	box-sizing: border-box;
+}
+.Transcation_Transcation .Paid {
+	position: absolute;
+	left: 674.79px;
+	top: 1001.81px;
+	width: 35.69px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Paid_1 {
+	position: absolute;
+	left: 674.79px;
+	top: 1097.26px;
+	width: 35.69px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Paid_2 {
+	position: absolute;
+	left: 674.79px;
+	top: 1193.54px;
+	width: 35.69px;
+	height: 20.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Mulish;
+	font-size: 16.599999999999998px;
+	font-weight: 600;
+	line-height: 20.833000316619874px;
+}
+.Transcation_Transcation .Vector_13 {
+	position: absolute;
+	left: 651.55px;
+	top: 1006.79px;
+	width: 1.099537037037037%;
+	height: 0.8944543828264758%;
+}
+.Transcation_Transcation .Vector_14 {
+	position: absolute;
+	left: 651.55px;
+	top: 1100.58px;
+	width: 1.099537037037037%;
+	height: 0.8944543828264758%;
+}
+.Transcation_Transcation .Vector_15 {
+	position: absolute;
+	left: 649.89px;
+	top: 1200.1799999999998px;
+	width: 1.099537037037037%;
+	height: 0.8944543828264758%;
+}

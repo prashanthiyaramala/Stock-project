@@ -1,0 +1,369 @@
+.navbart1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(250, 250, 125, 0.699);
+    padding: 7px;
+    border-top-left-radius: 50px; /* Adjust the value as per your preference */
+    border-bottom-left-radius: 50px; /* Adjust the value as per your preference */
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  
+  .nav-buttont1 {
+    border: none;
+    background-color: transparent;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px;
+  }
+  
+  .nav-buttont1:hover {
+    color: white;
+    background-color: black;
+    border-top-left-radius: 50px; /* Adjust the value as per your preference */
+    border-bottom-left-radius: 50px; /* Adjust the value as per your preference */
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .navt2 {
+    justify-content: space-between;
+    display: flex;
+  }
+  .t3 {
+    margin-top: 10px;
+    margin-left: 8%;
+    border: 1px solid;
+    background-color: transparent;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px;
+    padding-left: 10px;
+    border-top-left-radius: 50px; /* Adjust the value as per your preference */
+    border-bottom-left-radius: 50px; /* Adjust the value as per your preference */
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .t4 {
+    margin-right: 23%;
+    margin-top: 10px;
+    border: 1px solid;
+    background-color: transparent;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 10px;
+    padding-left: 25px;
+    border-top-left-radius: 50px; /* Adjust the value as per your preference */
+    border-bottom-left-radius: 50px; /* Adjust the value as per your preference */
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .t5,
+  .t8,
+  .t11 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 28px;
+    font-size: 16px;
+  }
+  .t6,
+  .t9,
+  .t12 {
+    border-top-left-radius: 10px; /* Adjust the value as per your preference */
+    border-bottom-left-radius: 10px; /* Adjust the value as per your preference */
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 1px solid;
+    background-color: transparent;
+    padding-left: 30px;
+    justify-content: center;
+    margin-right: 10px; /* Adjust the value to add desired space */
+    padding: 10px 50px; /* Adjust the padding as needed */
+    text-align: center;
+    width: fit-content;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .t7,
+  .t10,
+  .t13 {
+    border-top-left-radius: 10px; /* Adjust the value as per your preference */
+    border-bottom-left-radius: 10px; /* Adjust the value as per your preference */
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 1px solid;
+    background-color: transparent;
+    padding-left: 30px;
+    justify-content: center;
+    margin-right: 10px; /* Adjust the value to add desired space */
+    padding: 10px 50px; /* Adjust the padding as needed */
+    text-align: center;
+    width: fit-content;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .t14 {
+    margin-top: 10px;
+    border: 2px solid silver;
+    border-top-left-radius: 10px; /* Adjust the value as per your preference */
+    border-bottom-left-radius: 10px; /* Adjust the value as per your preference */
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+  }
+  
+  .t15 {
+    flex: 1;
+    margin-right: 63%;
+  }
+  
+  .t18 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  
+  .t16 {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  .t17 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    justify-content: center;
+  }
+  
+  .t19 {
+    padding: 10px 40px;
+    background-color: transparent;
+    border: 3px solid rgb(155, 222, 55);
+    border-top-left-radius: 50px; /* Adjust the value a s per your preference */
+    border-bottom-left-radius: 50px; /* Adjust the value as per your preference */
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: 40%;
+  }
+  .cryptott {
+    margin-right: 68%;
+    font-size: 23px;
+  }
+  .t20 {
+    border: 2px solid silver;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-top-left-radius: 10px; /* Adjust the value as per your preference */
+    border-bottom-left-radius: 10px; /* Adjust the value as per your preference */
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  
+  .t21 {
+    padding: 20px;
+    display: flex;
+    padding-left: 6%;
+    gap: 15%;
+  }
+  
+  .t22 {
+    display: inline-block;
+    border: 1px solid silver;
+    background-color: transparent;
+    padding: 10px 50px;
+    border-radius: 4px;
+  }
+  
+  .t23 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 40px;
+  }
+  
+  .t24 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+  }
+  
+  .t25 {
+    font-size: 16px;
+  }
+  .contt26 {
+    margin-top: 50px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 400px;
+    border: 3px solid white;
+    box-sizing: border-box;
+    padding: 10px;
+    box-shadow: 10px 20px 20px rgba(169, 252, 252, 0.734);
+    flex-direction: column;
+  }
+  
+  .rectt27 {
+    font-size: 26px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #b4ea2a;
+    margin-bottom: 10px;
+    padding: 15px;
+    width: 750px;
+    height: 180px;
+    box-shadow: 10px 10px 20px white;
+    border: transparent;
+  }
+  .t29,
+  .t30,
+  .t31 {
+    display: flex;
+    padding: 15px 35px;
+    border-top-left-radius: 50px; /* Adjust the value a s per your preference */
+    border-bottom-left-radius: 50px; /* Adjust the value as per your preference */
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: #b4ea2a;
+    border: 2px solid black;
+    align-self: flex-end;
+  }
+  .t29:hover {
+    background-color: black;
+    color: white;
+  }
+  .t30:hover {
+    background-color: black;
+    color: white;
+  }
+  .t31:hover {
+    background-color: black;
+    color: white;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .contt26 {
+      width: 90%;
+    }
+    .rectt27 {
+      width: 100%;
+      height: auto;
+    }
+  
+    .t29,
+    .t30,
+    .t31 {
+      padding: 10px 20px;
+      font-size: 14px;
+    }
+    .t5,
+    .t8,
+    .t11 {
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: flex-start;
+    }
+  
+    .t6,
+    .t9,
+    .t12,
+    .t7,
+    .t10,
+    .t13 {
+      width: 100%;
+      margin-right: 0;
+      margin-bottom: 10px;
+      padding: 10px 20px;
+      font-size: 14px;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .contt26 {
+      width: 95%;
+      height: auto;
+    }
+  
+    .rectt27 {
+      width: 100%;
+      height: auto;
+      font-size: 22px;
+    }
+  
+    .t29,
+    .t30,
+    .t31 {
+      padding: 8px 15px;
+      font-size: 12px;
+    }
+  }
+  /* Responsive adjustments */
+  @media screen and (max-width: 768px) {
+    .navbart1 {
+      flex-direction: column;
+      padding: 10px;
+    }
+    .nav-buttont1 {
+      margin-top: 10px;
+      padding: 5px;
+    }
+    .t3 {
+      margin-left: 0;
+    }
+    .t4 {
+      margin-right: 0;
+    }
+    .cryptott {
+      margin-right: 0;
+    }
+    .t14 {
+      flex-direction: column;
+    }
+    .t15 {
+      margin-right: 0;
+    }
+    .t18 {
+      justify-content: center;
+    }
+  
+    .t19 {
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .cryptott {
+      margin-right: 0;
+    }
+    .t20 {
+      margin-top: 10px;
+    }
+    .t21 {
+      flex-direction: column;
+      gap: 10%;
+    }
+    .t22 {
+      padding: 10px 30px;
+    }
+    .t23 {
+      justify-content: center;
+      gap: 20px;
+    }
+  }
+  

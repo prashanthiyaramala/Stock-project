@@ -1,0 +1,182 @@
+  .maincontain {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .firstcolumn1 {
+    flex: 3;
+    padding: 20px;
+
+  }
+  
+  .secondcolumn2 {
+    flex: 1;
+    display: flex;
+    margin:0;
+    flex-direction: column;
+
+  }
+  
+  .connectwallet-maincontain {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Updated */
+    margin-top: 20px;
+  }
+  
+  .connectwallet,.btc1 {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border-top-left-radius: 10px; /* Adjust the value a s per your preference */
+    border-bottom-left-radius: 10px; /* Adjust the value as per your preference */
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10%;
+  }
+  
+  .wallettrans {
+    box-shadow: 10px 10px 10px rgba(230, 244, 83, 0.734);
+    background-color: white;
+    border-radius:10%;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .ww23 table {
+    width: 100%;
+    border-collapse: collapse;
+  } 
+  
+  .www23 th, .ww23 td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .ww23 th {
+    color:silver;
+    font-weight: 200;
+    
+  }
+   
+  .ww24 table {
+    width: 100%;
+    border-collapse: collapse;
+  } 
+  
+  .ww24 th, .ww24 td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .ww24 th {
+    color:silver;
+    font-weight: 200;
+    
+  }
+  .ww24 b{
+    float:left;
+    font-size:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    color:skyblue;
+  }
+
+  .ww25 table {
+    width: 100%;
+    border-collapse: collapse;
+  } 
+  
+  .ww25 th, .ww25 td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .ww25 th {
+    color:silver;
+    font-weight: 200;
+    
+  }
+  .ww25 p{
+    float:left;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-weight: 200;
+  }
+  .wallett24 {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+  }
+  
+  .wallett25 {
+    font-size: 12px;
+  }
+  .wallett23 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+  }
+  .seetrans{
+    padding: 20px 80px;
+    background-color: transparent;
+    border: 3px solid rgb(155, 222, 55);
+    border-top-left-radius: 50px; /* Adjust the value a s per your preference */
+    border-bottom-left-radius: 50px; /* Adjust the value as per your preference */
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    font-size: 18px;
+    cursor: pointer;
+   
+  }
+  .endtrans{
+    padding-top: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .seetrans:hover{
+    background-color: black;
+    color:white;
+  }
+
+  /* Existing CSS */
+
+/* ... (your existing CSS code) ... */
+
+/* New CSS for responsiveness */
+
+/* For screens smaller than 768px */
+@media (max-width: 767px) {
+    .maincontain {
+      flex-direction: column;
+    }
+  
+    .firstcolumn1 {
+      flex: 100%;
+      padding: 10px;
+    }
+  
+    .secondcolumn2 {
+      flex: 100%;
+      margin: 0;
+    }
+    
+    .connectwallet, .btc1 {
+      margin-top: 5%;
+    }
+    
+    .endtrans {
+      padding-top: 20%;
+    }
+  }
+  
+  /* For screens larger than 768px */
+  @media (min-width: 768px) {
+    /* You can add additional styles for larger screens here, if needed */
+  }
+  
